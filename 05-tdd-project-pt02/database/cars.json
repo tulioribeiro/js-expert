@@ -1,0 +1,19 @@
+[{
+    "id": "9e7c0b5e-652d-47a1-b8a5-aadc7c46150c",
+    "name": "F-150",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+}, {
+    "id": "4d7bbacf-dc01-49d9-a455-54cee4532aa3",
+    "name": "Prius",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+}, {
+    "id": "bbb0d545-5817-4f16-ab22-e40b94dbca74",
+    "name": "Aventador",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+}]
